@@ -1,4 +1,4 @@
-baseurl = "http://onecampustd.github.io/"
+baseurl = "http://onecampus.github.io/"
 languageCode = "zh-CN"
 title = "Onecampus T.D."
 theme = "hyde"
