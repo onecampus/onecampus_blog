@@ -49,4 +49,4 @@ theme = "hyde"
 
 ## Other
 - **themes**：https://github.com/spf13/hugoThemes
-- **blog url**：http://nekocode.github.io
+- **blog url**：http://onecampus.github.io
