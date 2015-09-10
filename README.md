@@ -1,4 +1,4 @@
-#README 
+# http://onecampus.github.io
 
 ## Hugo Download
 https://github.com/spf13/hugo/releases
@@ -49,6 +49,5 @@ theme = "hyde"
 
 ## Other
 - **themes**：https://github.com/spf13/hugoThemes
-- **blog url**：http://onecampus.github.io
 - **syntax higlighting**：http://gohugo.io/extras/highlighting
   - 默认的 Server-Side 着色有问题，建议改为 Client-Side Syntax Highlighting，使用 **[highlight.js](https://highlightjs.org/)**
