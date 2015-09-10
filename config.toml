@@ -1,0 +1,13 @@
+baseurl = "http://onecampustd.github.io/"
+languageCode = "zh-CN"
+title = "Onecampus T.D."
+theme = "hyde"
+
+[params]
+	description = "I am the bone of my sword."
+	#disqusShortname = "spf13"
+
+[[menu.main]]
+	Name = "organization"
+	Url = "https://github.com/onecampus"
+	
