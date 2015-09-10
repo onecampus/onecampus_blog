@@ -48,7 +48,7 @@ theme = "hyde"
 - more about **`configuration`**：http://gohugo.io/overview/configuration/
 
 ## 用 Hugo 编写团队博客
-1. **fork**
+1. **fork** https://github.com/onecampus/onecampus_blog
 2. **write articles**
 3. **pull requests**
 
