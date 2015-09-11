@@ -7,7 +7,7 @@ theme = "hyde"
 	description = "I am the bone of my sword."
 	#disqusShortname = "spf13"
 
-[[menu.main]]
-	Name = "organization"
+[[menu.footer]]
+	Name = "Organization"
 	Url = "https://github.com/onecampus"
 	
