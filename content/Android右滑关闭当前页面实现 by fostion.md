@@ -141,5 +141,5 @@ title = "Android右滑关闭当前页面实现 by fostion"
 
 - 效果图
 
-![xiaoguotupian](../fostion_result1.png)
+![xiaoguotupian](../fostion_result1.jpg)
 
