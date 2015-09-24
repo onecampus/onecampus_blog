@@ -25,3 +25,5 @@ title = "ngrok 简单服务器搭建 by june"
 
 ## 更多信息
 访问 http://www.tunnel.mobi/, https://ngrok.com/docs
+
+### 补充： 由于 官方已经停止发布ngrok1.x版本，官网只能获取2.x,而并不能获取1.x的token...=.=, 解决方法，待续。。。
