@@ -9,6 +9,7 @@ title = "hugo 基础教程 by nekocode"
 https://github.com/spf13/hugo/releases
 
 ## Hugo 初尝
+
 ```
 hugo new site hugo_blog
 cd hugo_blog
@@ -29,6 +30,7 @@ hugo server -t hyde --watch
 
 ## Website Configuration
 **`toml` or `yaml` or `json`**
+
 ```
 baseurl = "http://onecampus.github.io/"
 languageCode = "zh-CN"
