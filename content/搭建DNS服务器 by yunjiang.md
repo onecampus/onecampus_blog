@@ -2,7 +2,7 @@
 Description = ""
 date = "2015-09-29T15:34:00+08:00"
 menu = "main"
-title = "Centos下搭建DNS服务器"
+title = "Centos下搭建DNS服务器 by yunjiang"
 
 +++
 
