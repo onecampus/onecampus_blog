@@ -1,7 +1,4 @@
 +++
-Categories = ["Development", "GoLang"]
-Description = ""
-Tags = ["Development", "golang"]
 date = "2015-10-30T11:57:29+08:00"
 menu = "main"
 title = "css3属性选择器、伪类一览"

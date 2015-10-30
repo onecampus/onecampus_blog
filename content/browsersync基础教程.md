@@ -1,7 +1,4 @@
 +++
-Categories = ["Development", "GoLang"]
-Description = ""
-Tags = ["Development", "golang"]
 date = "2015-10-30T10:21:57+08:00"
 menu = "main"
 title = "browsersync基础教程"
