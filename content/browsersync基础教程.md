@@ -1,7 +1,7 @@
 +++
 date = "2015-10-30T10:21:57+08:00"
 menu = "main"
-title = "browsersync基础教程"
+title = "browsersync基础教程 by dongyu"
 
 +++
 ## browser-sync基础配置
