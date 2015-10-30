@@ -4,7 +4,7 @@ menu = "main"
 title = "browsersync基础教程"
 
 +++
-##browser-sync基础配置
+## browser-sync基础配置
 > [browser-sync](http://www.browsersync.io/)是个啥？  
 
 browser-sync是一个前端辅助性插件，用于开发时自动刷新页面。
